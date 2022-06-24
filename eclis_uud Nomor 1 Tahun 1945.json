@@ -1,0 +1,2972 @@
+{
+    "document_id": "fe977fd0-a171-11eb-b1a8-dbae1c59d899",
+    "dom": {
+      "depreciated": 0,
+      "dom_id": "fe977fd0-a171-11eb-b1a8-dbae1c59d899",
+      "type": "Undang-Undang Dasar",
+      "short_type": "uud",
+      "hierarchy": "1",
+      "document": "Undang-Undang Dasar Nomor 1 Tahun 1945 Tentang Undang Undang Dasar 1945",
+      "document_summary": "uud Nomor 1 Tahun 1945",
+      "title": "Undang Undang Dasar 1945",
+      "number": "1",
+      "year": 1945,
+      "ln": null,
+      "tln": null,
+      "disahkan": null,
+      "ditetapkan": null,
+      "diundangkan": null,
+      "url": "uud-1-1945",
+      "abbreviation": "uud 1/1945",
+      "alasan_pembuatan": null,
+      "total": 73,
+      "sumber": {},
+      "initiative": "",
+      "author_note": "",
+      "lampiran": null
+    },
+    "document_histories": [],
+    "document_content": [
+      {
+        "id": "judul",
+        "section": "judul",
+        "name": "judul",
+        "depth": 0,
+        "list": null,
+        "class_name": "name_hidden v_c_text_center v_c_text_semi_bold new_line",
+        "content": [
+          "<b>UNDANG-UNDANG DASAR<BR />NOMOR 1 TAHUN 1945<BR />TENTANG<BR /> UNDANG UNDANG DASAR 1945</b>"
+        ]
+      },
+      {
+        "id": "preambule",
+        "section": "preambule",
+        "name": "preambule",
+        "depth": 0,
+        "list": null,
+        "class_name": "name_hidden v_c_text_left new_line preambule",
+        "content": [
+          "Bahwa sesungguhnya Kemerdekaan itu ialah hak segala bangsa dan oleh sebab itu, maka penjajahan di atas dunia harus dihapuskan, karena tidak sesuai dengan peri-kemanusiaan dan peri-keadilan.",
+          "Dan perjuangan pergerakan kemerdekaan Indonesia telah sampailah kepada saat yang berbahagia dengan selamat sentausa mengantarkan rakyat Indonesia ke depan pintu gerbang kemerdekaan Negara Indonesia, yang merdeka, bersatu, berdaulat, adil dan makmur.",
+          "Atas berkat rahmat Allah Yang Maha Kuasa dan dengan didorongkan oleh keinginan luhur, supaya berkehidupan kebangsaan yang bebas, maka rakyat Indonesia menyatakan dengan ini kemerdekaannya.",
+          "Kemudian daripada itu untuk membentuk suatu Pemerintah Negara Indonesia yang melindungi segenap bangsa Indonesia dan seluruh tumpah darah Indonesia dan untuk memajukan kesejahteraan umum, mencerdaskan kehidupan bangsa, dan ikut melaksanakan ketertiban dunia yang berdasarkan kemerdekaan, perdamaian abadi dan keadilan sosial, maka disusunlah Kemerdekaan Kebangsaan Indonesia itu dalam suatu Undang-Undang Dasar Negara Indonesia, yang terbentuk dalam suatu susunan Negara Republik Indonesia yang berkedaulatan rakyat dengan berdasar kepada Ketuhanan Yang Maha Esa, Kemanusiaan yang adil dan beradab, Persatuan Indonesia dan Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam Permusyawaratan / Perwakilan, serta dengan mewujudkan suatu Keadilan sosial bagi seluruh rakyat Indonesia."
+        ]
+      },
+      {
+        "id": "bab~i",
+        "section": "bab",
+        "name": "BAB I \nBENTUK DAN KEDAULATAN",
+        "list": null,
+        "depth": 0,
+        "class_name": "v_s_text_center v_s_text_bold new_line",
+        "content": [
+          {
+            "id": "bab~i pasal~1",
+            "section": "pasal",
+            "name": "Pasal 1",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~i pasal~1 ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Negara Indonesia ialah Negara Kesatuan, yang berbentuk Republik."
+                ]
+              },
+              {
+                "id": "bab~i pasal~1 ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Kedaulatan berada di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar.***)"
+                ]
+              },
+              {
+                "id": "bab~i pasal~1 ayat~3",
+                "section": "ayat",
+                "name": "3",
+                "list": "(3)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Negara Indonesia adalah negara hukum. ***)"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bab~ii",
+        "section": "bab",
+        "name": "BAB II \nMAJELIS PERMUSYAWARATAN RAKYAT",
+        "list": null,
+        "depth": 0,
+        "class_name": "v_s_text_center v_s_text_bold new_line",
+        "content": [
+          {
+            "id": "bab~ii pasal~2",
+            "section": "pasal",
+            "name": "Pasal 2",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~ii pasal~2 ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Majelis Permusyawaratan Rakyat terdiri atas anggota Dewan Perwakilan Rakyat dan anggota Dewan Perwakilan Daerah yang dipilih melalui pemilihan umum dan diatur lebih lanjut dengan undang-undang.****)"
+                ]
+              },
+              {
+                "id": "bab~ii pasal~2 ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Majelis Permusyawaratan Rakyat bersidang sedikitnya sekali dalam lima tahun di ibu kota negara."
+                ]
+              },
+              {
+                "id": "bab~ii pasal~2 ayat~3",
+                "section": "ayat",
+                "name": "3",
+                "list": "(3)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Segala putusan Majelis Permusyawaratan Rakyat ditetapkan dengan suara yang terbanyak."
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~ii pasal~3",
+            "section": "pasal",
+            "name": "Pasal 3",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~ii pasal~3 ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Majelis Permusyawaratan Rakyat berwenang mengubah dan menetapkan Undang-Undang Dasar. ***)"
+                ]
+              },
+              {
+                "id": "bab~ii pasal~3 ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Majelis Permusyawaratan Rakyat melantik Presiden dan/atau Wakil Presiden. ****)"
+                ]
+              },
+              {
+                "id": "bab~ii pasal~3 ayat~3",
+                "section": "ayat",
+                "name": "3",
+                "list": "(3)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Majelis Permusyawaratan Rakyat hanya dapat memberhentikan Presiden dan/atau Wakil Presiden dalam masa jabatannya menurut Undang-Undang Dasar. ****)"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bab~iii",
+        "section": "bab",
+        "name": "BAB III \nKEKUASAAN PEMERINTAHAN NEGARA",
+        "list": null,
+        "depth": 0,
+        "class_name": "v_s_text_center v_s_text_bold new_line",
+        "content": [
+          {
+            "id": "bab~iii pasal~4",
+            "section": "pasal",
+            "name": "Pasal 4",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~iii pasal~4 ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Presiden Republik Indonesia memegang kekuasaan pemerintahan menurut Undang-Undang Dasar."
+                ]
+              },
+              {
+                "id": "bab~iii pasal~4 ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Dalam melakukan kewajibannya Presiden dibantu oleh satu orang Wakil Presiden."
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~iii pasal~5",
+            "section": "pasal",
+            "name": "Pasal 5",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~iii pasal~5 ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Presiden berhak mengajukan rancangan undang-undang kepada Dewan Perwakilan Rakyat. *)"
+                ]
+              },
+              {
+                "id": "bab~iii pasal~5 ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Presiden menetapkan peraturan pemerintah untuk menjalankan undang-undang sebagaimana mestinya."
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~iii pasal~6",
+            "section": "pasal",
+            "name": "Pasal 6",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~iii pasal~6 ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Calon Presiden dan calon Wakil Presiden harus seorang warga negara Indonesia sejak kelahirannya dan tidak pernah menerima kewarganegaraan lain karena kehendaknya sendiri, tidak pernah mengkhianati negara, serta mampu secara rohani dan jasmani untuk melaksanakan tugas dan kewajiban sebagai Presiden dan Wakil Presiden. ***)"
+                ]
+              },
+              {
+                "id": "bab~iii pasal~6 ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Syarat-syarat untuk menjadi Presiden dan Wakil Presiden diatur lebih lanjut dengan undang-undang. ***)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~iii pasal~6a",
+            "section": "pasal",
+            "name": "Pasal 6A",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~iii pasal~6a ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Presiden dan Wakil Presiden dipilih dalam satu pasangan secara langsung oleh rakyat.***)"
+                ]
+              },
+              {
+                "id": "bab~iii pasal~6a ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Pasangan calon Presiden dan Wakil Presiden diusulkan oleh partai politik atau gabungan partai politik peserta pemilihan umum sebelum pelaksanaan pemilihan umum. ***)"
+                ]
+              },
+              {
+                "id": "bab~iii pasal~6a ayat~3",
+                "section": "ayat",
+                "name": "3",
+                "list": "(3)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Pasangan calon Presiden dan Wakil Presiden yang mendapatkan suara lebih dari lima puluh persen dari jumlah suara dalam pemilihan umum dengan sedikitnya dua puluh persen suara di setiap provinsi yang tersebar di lebih dari setengah jumlah provinsi di Indonesia, dilantik menjadi Presiden dan Wakil Presiden. ***)"
+                ]
+              },
+              {
+                "id": "bab~iii pasal~6a ayat~4",
+                "section": "ayat",
+                "name": "4",
+                "list": "(4)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Dalam hal tidak ada pasangan calon Presiden dan Wakil Presiden terpilih, dua pasangan calon yang memperoleh suara terbanyak pertama dan kedua dalam pemilihan umum dipilih oleh rakyat secara langsung dan pasangan yang memperoleh suara rakyat terbanyak dilantik sebagai Presiden dan Wakil Presiden. ****)"
+                ]
+              },
+              {
+                "id": "bab~iii pasal~6a ayat~5",
+                "section": "ayat",
+                "name": "5",
+                "list": "(5)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Tata cara pelaksanaan pemilihan Presiden dan Wakil Presiden lebih lanjut diatur dalam undang-undang. ***)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~iii pasal~7",
+            "section": "pasal",
+            "name": "Pasal 7",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              "Presiden dan Wakil Presiden memegang jabatan selama lima tahun, dan sesudahnya dapat dipilih kembali dalam jabatan yang sama, hanya untuk satu kali masa jabatan.*)"
+            ]
+          },
+          {
+            "id": "bab~iii pasal~7a",
+            "section": "pasal",
+            "name": "Pasal 7A",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              "Presiden dan/atau Wakil Presiden dapat diberhentikan dalam masa jabatannya oleh Majelis Permusyawaratan Rakyat atas usul Dewan Perwakilan Rakyat, baik apabila terbukti telah melakukan pelanggaran hukum berupa pengkhianatan terhadap negara, korupsi, penyuapan, tindak pidana berat lainnya, atau perbuatan tercela maupun apabila terbukti tidak lagi memenuhi syarat sebagai Presiden dan/atau Wakil Presiden. ***)"
+            ]
+          },
+          {
+            "id": "bab~iii pasal~7b",
+            "section": "pasal",
+            "name": "Pasal 7B",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~iii pasal~7b ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Usul pemberhentian Presiden dan/atau Wakil Presiden dapat diajukan oleh Dewan Perwakilan Rakyat kepada Majelis Permusyawaratan Rakyat hanya dengan terlebih dahulu mengajukan permintaan kepada Mahkamah Konstitusi untuk memeriksa, mengadili, dan memutus pendapat Dewan Perwakilan Rakyat bahwa Presiden dan/atau Wakil Presiden telah melakukan pelanggaran hukum berupa pengkhianatan terhadap negara, korupsi, penyuapan, tindak pidana berat lainnya, atau perbuatan tercela; dan/atau pendapat bahwa Presiden dan/ atau Wakil Presiden tidak lagi memenuhi syarat sebagai Presiden dan/atau Wakil Presiden. ***)"
+                ]
+              },
+              {
+                "id": "bab~iii pasal~7b ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Pendapat Dewan Perwakilan Rakyat bahwa Presiden dan/atau Wakil Presiden telah melakukan pelanggaran hukum tersebut ataupun telah tidak lagi memenuhi syarat sebagai Presiden dan/atau Wakil Presiden adalah dalam rangka pelaksanaan fungsi pengawasan Dewan Perwakilan Rakyat. ***)"
+                ]
+              },
+              {
+                "id": "bab~iii pasal~7b ayat~3",
+                "section": "ayat",
+                "name": "3",
+                "list": "(3)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Pengajuan permintaan Dewan Perwakilan Rakyat kepada Mahkamah Konstitusi hanya dapat dilakukan dengan dukungan sekurangkurangnya2/3 dari jumlah anggota Dewan Perwakilan Rakyat yang hadir dalam sidang paripurna yang dihadiri oleh sekurangkurangnya 2/3 dari jumlah anggota Dewan Perwakilan Rakyat. ***)"
+                ]
+              },
+              {
+                "id": "bab~iii pasal~7b ayat~4",
+                "section": "ayat",
+                "name": "4",
+                "list": "(4)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Mahkamah Konstitusi wajib memeriksa, mengadili, dan memutus dengan seadil-adilnya terhadap pendapat Dewan Perwakilan Rakyat tersebut paling lama sembilan puluh hari setelah permintaan Dewan Perwakilan Rakyat itu diterima oleh Mahkamah Konstitusi. ***)"
+                ]
+              },
+              {
+                "id": "bab~iii pasal~7b ayat~5",
+                "section": "ayat",
+                "name": "5",
+                "list": "(5)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Apabila Mahkamah Konstitusi memutuskan bahwa Presiden dan/atau Wakil Presiden terbukti melakukan pelanggaran hukum berupa pengkhianatan terhadap negara, korupsi, penyuapan, tindak pidana berat lainnya, atau perbuatan tercela; dan/atau terbukti bahwa Presiden dan/atau Wakil Presiden tidak lagi memenuhi syarat sebagai Presiden dan/atau Wakil Presiden, Dewan Perwakilan Rakyat menyelenggarakan sidang paripurna untuk meneruskan usul pemberhentian Presiden dan/atau Wakil Presiden kepada Majelis Permusyawaratan Rakyat. ***)"
+                ]
+              },
+              {
+                "id": "bab~iii pasal~7b ayat~6",
+                "section": "ayat",
+                "name": "6",
+                "list": "(6)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Majelis Permusyawaratan Rakyat wajib menyelenggarakan sidang untuk memutuskan usul Dewan Perwakilan Rakyat tersebut paling lambat tiga puluh hari sejak Majelis Permusyawaratan Rakyat menerima usul tersebut. ***)"
+                ]
+              },
+              {
+                "id": "bab~iii pasal~7b ayat~7",
+                "section": "ayat",
+                "name": "7",
+                "list": "(7)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Keputusan Majelis Permusyawaratan Rakyat atas usul pemberhentian Presiden dan/atau Wakil Presiden harus diambil dalam rapat paripurna Majelis Permusyawaratan Rakyat yang dihadiri oleh sekurang-kurangnya 3/4 dari jumlah anggota dan disetujui oleh sekurang-kurangnya 2/3 dari jumlah anggota yang hadir, setelah Presiden dan/atau Wakil Presiden diberi kesempatan menyampaikan penjelasan dalam rapat paripurna Majelis Permusyawaratan Rakyat. ***)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~iii pasal~7c",
+            "section": "pasal",
+            "name": "Pasal 7C",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              "Presiden tidak dapat membekukan dan/atau membubarkan Dewan Perwakilan Rakyat. ***)"
+            ]
+          },
+          {
+            "id": "bab~iii pasal~8",
+            "section": "pasal",
+            "name": "Pasal 8",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~iii pasal~8 ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Jika Presiden mangkat, berhenti, diberhentikan, atau tidak dapat melakukan kewajibannya dalam masa jabatannya, ia digantikan oleh Wakil Presiden sampai habis masa jabatannya. ***)"
+                ]
+              },
+              {
+                "id": "bab~iii pasal~8 ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Dalam hal terjadi kekosongan Wakil Presiden, selambat-lambatnya dalam waktu enam puluh hari, Majelis Permusyawaratan Rakyat menyelenggarakan sidang untuk memilih Wakil Presiden dari dua calon yang diusulkan oleh Presiden. ***)"
+                ]
+              },
+              {
+                "id": "bab~iii pasal~8 ayat~3",
+                "section": "ayat",
+                "name": "3",
+                "list": "(3)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Jika Presiden dan Wakil Presiden mangkat, berhenti, diberhentikan, atau tidak dapat melakukan kewajibannya dalam masa jabatannya secara bersamaan, pelaksana tugas kepresidenan adalah Menteri Luar Negeri, Menteri Dalam Negeri, dan Menteri Pertahanan secara bersama-sama. Selambat-lambatnya tiga puluh hari setelah itu, Majelis Permusyawaratan Rakyat menyelenggarakan sidang untuk memilih Presiden dan Wakil Presiden dari dua pasangan calon Presiden dan Wakil Presiden yang diusulkan oleh partai politik atau gabungan partai politik yang pasangan calon Presiden dan Wakil Presidennya meraih pertama dan kedua suara dalam terbanyak pemilihan umum sebelumnya, sampai berakhir masa jabatannya. ****)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~iii pasal~9",
+            "section": "pasal",
+            "name": "Pasal 9",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~iii pasal~9 ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Sebelum memangku jabatannya, Presiden dan Wakil Presiden bersumpah menurut agama, atau berjanji dengan sungguh-sungguh di hadapan Majelis Permusyawaratan Rakyat atau Dewan Perwakilan Rakyat sebagai berikut: Sumpah Presiden (Wakil Presiden): “Demi Allah, saya bersumpah akan memenuhi kewajiban Presiden Republik Indonesia (Wakil Presiden Republik Indonesia) dengan sebaik-baiknya dan seadil-adilnya, memegang teguh Undang-Undang Dasar dan menjalankan segala undang-undang dan peraturannya dengan selurus-lurusnya serta berbakti kepada Nusa dan Bangsa.” Janji Presiden (Wakil Presiden): “Saya berjanji dengan sungguh-sungguh akan memenuhi kewajiban Presiden Republik Indonesia (Wakil Presiden Republik Indonesia) dengan sebaik-baiknya dan seadil-adilnya, memegang teguh Undang-Undang Dasar dan menjalankan segala undang-undang dan peraturannya dengan selurus-lurusnya serta berbakti kepada Nusa dan Bangsa”. *)"
+                ]
+              },
+              {
+                "id": "bab~iii pasal~9 ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Jika Majelis Permusyawaratan Rakyat atau Dewan Perwakilan Rakyat tidak dapat mengadakan sidang, Presiden dan Wakil Presiden bersumpah menurut agama, atau berjanji dengan sungguh-sungguh di hadapan pimpinan Majelis Permusyawaratan Rakyat dengan disaksikan oleh Pimpinan Mahkamah Agung."
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~iii pasal~10",
+            "section": "pasal",
+            "name": "Pasal 10",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              "Presiden memegang kekuasaan yang tertinggi atas Angkatan Darat, Angkatan Laut dan Angkatan Udara."
+            ]
+          },
+          {
+            "id": "bab~iii pasal~11",
+            "section": "pasal",
+            "name": "Pasal 11",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~iii pasal~11 ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Presiden dengan persetujuan Dewan Perwakilan Rakyat menyatakan perang, membuat perdamaian dan perjanjian dengan negara lain. ****)"
+                ]
+              },
+              {
+                "id": "bab~iii pasal~11 ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Presiden dalam membuat perjanjian internasional lainnya yang menimbulkan akibat yang luas dan mendasar bagi kehidupan rakyat yang terkait dengan beban keuangan negara, dan/atau mengharuskan perubahan atau pembentukan undang-undang harus dengan persetujuan Dewan Perwakilan Rakyat. ***)"
+                ]
+              },
+              {
+                "id": "bab~iii pasal~11 ayat~3",
+                "section": "ayat",
+                "name": "3",
+                "list": "(3)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Ketentuan lebih lanjut tentang perjanjian internasional diatur dengan undang-undang. ***)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~iii pasal~12",
+            "section": "pasal",
+            "name": "Pasal 12",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              "Presiden menyatakan keadaan bahaya. Syarat-syarat dan akibatnya keadaan bahaya ditetapkan dengan undang-undang."
+            ]
+          },
+          {
+            "id": "bab~iii pasal~13",
+            "section": "pasal",
+            "name": "Pasal 13",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~iii pasal~13 ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Presiden mengangkat duta dan konsul."
+                ]
+              },
+              {
+                "id": "bab~iii pasal~13 ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Dalam hal mengangkat duta, Presiden memperhatikan pertimbangan Dewan Perwakilan Rakyat. *)"
+                ]
+              },
+              {
+                "id": "bab~iii pasal~13 ayat~3",
+                "section": "ayat",
+                "name": "3",
+                "list": "(3)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Presiden menerima penempatan duta negara lain dengan memperhatikan pertimbangan Dewan Perwakilan Rakyat. *)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~iii pasal~14",
+            "section": "pasal",
+            "name": "Pasal 14",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~iii pasal~14 ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Presiden memberi grasi dan rehabilitasi dengan memperhatikan pertimbangan Mahkamah Agung. *)"
+                ]
+              },
+              {
+                "id": "bab~iii pasal~14 ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Presiden memberi amnesti dan abolisi dengan memperhatikan pertimbangan Dewan Perwakilan Rakyat. *)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~iii pasal~15",
+            "section": "pasal",
+            "name": "Pasal 15",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              "Presiden memberi gelar, tanda jasa, dan lain-lain tanda kehormatan yang diatur dengan undang-undang. *)"
+            ]
+          },
+          {
+            "id": "bab~iii pasal~16",
+            "section": "pasal",
+            "name": "Pasal 16",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              "Presiden membentuk suatu dewan pertimbangan yang bertugas memberikan nasihat dan pertimbangan kepada Presiden, yang selanjutnya diatur dalam undang-undang. ****)"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bab~iv",
+        "section": "bab",
+        "name": "BAB IV \nDEWAN PERTIMBANGAN AGUNG",
+        "list": null,
+        "depth": 0,
+        "class_name": "v_s_text_center v_s_text_bold new_line",
+        "content": [
+          "Dihapus."
+        ]
+      },
+      {
+        "id": "bab~v",
+        "section": "bab",
+        "name": "BAB V \nKEMENTERIAN NEGARA",
+        "list": null,
+        "depth": 0,
+        "class_name": "v_s_text_center v_s_text_bold new_line",
+        "content": [
+          {
+            "id": "bab~v pasal~17",
+            "section": "pasal",
+            "name": "Pasal 17",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~v pasal~17 ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Presiden dibantu oleh menteri-menteri negara."
+                ]
+              },
+              {
+                "id": "bab~v pasal~17 ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Menteri-menteri itu diangkat dan diberhentikan oleh Presiden. *)"
+                ]
+              },
+              {
+                "id": "bab~v pasal~17 ayat~3",
+                "section": "ayat",
+                "name": "3",
+                "list": "(3)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Setiap menteri membidangi urusan tertentu dalam pemerintahan. *)"
+                ]
+              },
+              {
+                "id": "bab~v pasal~17 ayat~4",
+                "section": "ayat",
+                "name": "4",
+                "list": "(4)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Pembentukan, pengubahan, dan pembubaran kementerian negara diatur dalam undang-undang.***)"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bab~vi",
+        "section": "bab",
+        "name": "BAB VI \nPEMERINTAHAN DAERAH",
+        "list": null,
+        "depth": 0,
+        "class_name": "v_s_text_center v_s_text_bold new_line",
+        "content": [
+          {
+            "id": "bab~vi pasal~18",
+            "section": "pasal",
+            "name": "Pasal 18",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~vi pasal~18 ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Negara Kesatuan Republik Indonesia dibagi atas daerah-daerah provinsi dan daerah provinsi itu dibagi atas kabupaten dan kota, yang tiap-tiap provinsi, kabupaten, dan kota itu mempunyai pemerintahan daerah, yang diatur dengan undang-undang. **)"
+                ]
+              },
+              {
+                "id": "bab~vi pasal~18 ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Pemerintahan daerah provinsi, daerah kabupaten, dan kota mengatur dan mengurus sendiri urusan pemerintahan menurut asas otonomi dan tugas pembantuan. **)"
+                ]
+              },
+              {
+                "id": "bab~vi pasal~18 ayat~3",
+                "section": "ayat",
+                "name": "3",
+                "list": "(3)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Pemerintahan daerah provinsi, daerah kabupaten, dan kota memiliki Dewan Perwakilan Rakyat Daerah yang anggota-anggotanya dipilih melalui pemilihan umum. **)"
+                ]
+              },
+              {
+                "id": "bab~vi pasal~18 ayat~4",
+                "section": "ayat",
+                "name": "4",
+                "list": "(4)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Gubernur, Bupati, dan Walikota masing-masing sebagai kepala pemerintah daerah provinsi, kabupaten, dan kota dipilih secara demokratis. **)"
+                ]
+              },
+              {
+                "id": "bab~vi pasal~18 ayat~5",
+                "section": "ayat",
+                "name": "5",
+                "list": "(5)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Pemerintahan daerah menjalankan otonomi seluas-luasnya, kecuali urusan pemerintahan yang oleh undang-undang ditentukan sebagai urusan Pemerintah Pusat. **)"
+                ]
+              },
+              {
+                "id": "bab~vi pasal~18 ayat~6",
+                "section": "ayat",
+                "name": "6",
+                "list": "(6)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Pemerintahan daerah berhak menetapkan peraturan daerah dan peraturan-peraturan lain untuk melaksanakan otonomi dan tugas pembantuan. **)"
+                ]
+              },
+              {
+                "id": "bab~vi pasal~18 ayat~7",
+                "section": "ayat",
+                "name": "7",
+                "list": "(7)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Susunan dan tata cara penyelenggaraan pemerintahan daerah diatur dalam undang-undang.**)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~vi pasal~18a",
+            "section": "pasal",
+            "name": "Pasal 18A",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~vi pasal~18a ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Hubungan wewenang antara pemerintah pusat dan pemerintahan daerah provinsi, kabupaten, dan kota, atau antara provinsi dan kabupaten dan kota, diatur dengan undang-undang dengan memperhatikan kekhususan dan keragaman daerah. **)"
+                ]
+              },
+              {
+                "id": "bab~vi pasal~18a ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Hubungan keuangan, pelayanan umum, pemanfaatan sumber daya alam dan sumberdaya lainnya antara pemerintah pusat dan pemerintahan daerah diatur dan dilaksanakan secara adil dan selaras berdasarkan undang-undang.**)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~vi pasal~18b",
+            "section": "pasal",
+            "name": "Pasal 18B",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~vi pasal~18b ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Negara mengakui dan menghormati satuan-satuan pemerintahan daerah yang bersifat khusus atau bersifat istimewa yang diatur dengan undang-undang. **)"
+                ]
+              },
+              {
+                "id": "bab~vi pasal~18b ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Negara mengakui dan menghormati kesatuan-kesatuan masyarakat hukum adat beserta hak-hak tradisionalnya sepanjang masih hidup dan sesuai dengan perkembangan masyarakat dan prinsip Negara Kesatuan Republik Indonesia, yang diatur dalam undang-undang. **)"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bab~vii",
+        "section": "bab",
+        "name": "BAB VII \nDEWAN PERWAKILAN RAKYAT",
+        "list": null,
+        "depth": 0,
+        "class_name": "v_s_text_center v_s_text_bold new_line",
+        "content": [
+          {
+            "id": "bab~vii pasal~19",
+            "section": "pasal",
+            "name": "Pasal 19",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~vii pasal~19 ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Anggota Dewan Perwakilan Rakyat dipilih melalui pemilihan umum. **)"
+                ]
+              },
+              {
+                "id": "bab~vii pasal~19 ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Susunan Dewan Perwakilan Rakyat diatur dengan undang-undang. **)"
+                ]
+              },
+              {
+                "id": "bab~vii pasal~19 ayat~3",
+                "section": "ayat",
+                "name": "3",
+                "list": "(3)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Dewan Perwakilan Rakyat bersidang sedikitnya sekali dalam setahun. **)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~vii pasal~20",
+            "section": "pasal",
+            "name": "Pasal 20",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~vii pasal~20 ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Dewan Perwakilan Rakyat memegang kekuasaan membentuk undang-undang. *)"
+                ]
+              },
+              {
+                "id": "bab~vii pasal~20 ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Setiap rancangan undang-undang dibahas oleh Dewan Perwakilan Rakyat dan Presiden untuk mendapat persetujuan bersama. *)"
+                ]
+              },
+              {
+                "id": "bab~vii pasal~20 ayat~3",
+                "section": "ayat",
+                "name": "3",
+                "list": "(3)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Jika rancangan undang-undang itu tidak mendapat persetujuan bersama, rancangan undang-undang itu tidak boleh diajukan lagi dalam persidangan Dewan Perwakilan Rakyat masa itu. *)"
+                ]
+              },
+              {
+                "id": "bab~vii pasal~20 ayat~4",
+                "section": "ayat",
+                "name": "4",
+                "list": "(4)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Presiden mengesahkan rancangan undang-undang yang telah disetujui bersama untuk menjadi undang-undang. *)"
+                ]
+              },
+              {
+                "id": "bab~vii pasal~20 ayat~5",
+                "section": "ayat",
+                "name": "5",
+                "list": "(5)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Dalam hal rancangan undang-undang yang telah disetujui bersama tersebut tidak disahkan oleh Presiden dalam waktu tiga puluh hari semenjak rancangan undang-undang tersebut disetujui, rancangan undang-undang tersebut sah menjadi undang-undang dan wajib diundangkan. **)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~vii pasal~20a",
+            "section": "pasal",
+            "name": "Pasal 20A",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~vii pasal~20a ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Dewan Perwakilan Rakyat memiliki fungsi legislasi, fungsi anggaran, dan fungsi pengawasan. **)"
+                ]
+              },
+              {
+                "id": "bab~vii pasal~20a ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Dalam melaksanakan fungsinya, selain hak yang diatur dalam pasal-pasal lain Undang-Undang Dasar ini, Dewan Perwakilan Rakyat mempunyai hak interpelasi, hak angket, dan hak menyatakan pendapat. **)"
+                ]
+              },
+              {
+                "id": "bab~vii pasal~20a ayat~3",
+                "section": "ayat",
+                "name": "3",
+                "list": "(3)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Selain hak yang diatur dalam pasal-pasal lain Undang-Undang Dasar ini, setiap anggota Dewan Perwakilan Rakyat mempunyai hak mengajukan pertanyaan, menyampaikan usul dan pendapat serta hak imunitas. **)"
+                ]
+              },
+              {
+                "id": "bab~vii pasal~20a ayat~4",
+                "section": "ayat",
+                "name": "4",
+                "list": "(4)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Ketentuan lebih lanjut tentang hak Dewan Perwakilan Rakyat dan hak anggota Dewan Perwakilan Rakyat diatur dalam undang-undang.**)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~vii pasal~21",
+            "section": "pasal",
+            "name": "Pasal 21",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              "Anggota Dewan Perwakilan Rakyat berhak mengajukan usul rancangan undang-undang. *)"
+            ]
+          },
+          {
+            "id": "bab~vii pasal~22",
+            "section": "pasal",
+            "name": "Pasal 22",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~vii pasal~22 ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Dalam hal ihwal kegentingan yang memaksa, presiden berhak menetapkan peraturan pemerintah sebagai pengganti undang-undang."
+                ]
+              },
+              {
+                "id": "bab~vii pasal~22 ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Peraturan pemerintah itu harus mendapat persetujuan Dewan Perwakilan Rakyat dalam persidangan yang berikut."
+                ]
+              },
+              {
+                "id": "bab~vii pasal~22 ayat~3",
+                "section": "ayat",
+                "name": "3",
+                "list": "(3)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Jika tidak mendapat persetujuan, maka peraturan pemerintah itu harus dicabut."
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~vii pasal~22a",
+            "section": "pasal",
+            "name": "Pasal 22A",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              "Ketentuan lebih lanjut tentang tata cara pembentukan undang-undang diatur dengan undang-undang. **)"
+            ]
+          },
+          {
+            "id": "bab~vii pasal~22b",
+            "section": "pasal",
+            "name": "Pasal 22B",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              "Anggota Dewan Perwakilan Rakyat dapat diberhentikan dari jabatannya, yang syarat-syarat dan tata caranya diatur dalam undang-undang. **)"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bab~viia",
+        "section": "bab",
+        "name": "BAB VIIA \nDEWAN PERWAKILAN DAERAH",
+        "list": null,
+        "depth": 0,
+        "class_name": "v_s_text_center v_s_text_bold new_line",
+        "content": [
+          {
+            "id": "bab~viia pasal~22c",
+            "section": "pasal",
+            "name": "Pasal 22C",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~viia pasal~22c ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Anggota Dewan Perwakilan Daerah dipilih dari setiap provinsi melalui pemilihan umum. ***)"
+                ]
+              },
+              {
+                "id": "bab~viia pasal~22c ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Anggota Dewan Perwakilan Daerah dari setiap provinsi jumlahnya sama dan jumlah seluruh anggota Dewan Perwakilan Daerah itu tidak lebih dari sepertiga jumlah anggota Dewan Perwakilan Rakyat. ***)"
+                ]
+              },
+              {
+                "id": "bab~viia pasal~22c ayat~3",
+                "section": "ayat",
+                "name": "3",
+                "list": "(3)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Dewan Perwakilan Daerah bersidang sedikitnya sekali dalam setahun. ***)"
+                ]
+              },
+              {
+                "id": "bab~viia pasal~22c ayat~4",
+                "section": "ayat",
+                "name": "4",
+                "list": "(4)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Susunan dan kedudukan Dewan Perwakilan Daerah diatur dengan undang- undang. ***)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~viia pasal~22d",
+            "section": "pasal",
+            "name": "Pasal 22D",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~viia pasal~22d ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Dewan Perwakilan Daerah dapat mengajukan kepada Dewan Perwakilan Rakyat rancangan undang-undang yang berkaitan dengan otonomi daerah, hubungan pusat dan daerah, pembentukan dan pemekaran serta penggabungan daerah, pengelolaan sumberdaya alam dan sumber daya ekonomi lainnya, serta yang berkaitan dengan perimbangan keuangan pusat dan daerah. ***)"
+                ]
+              },
+              {
+                "id": "bab~viia pasal~22d ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Dewan Perwakilan Daerah ikut membahas rancangan undang-undang yang berkaitan dengan otonomi daerah; hubungan pusat dan daerah; pembentukan, pemekaran, dan penggabungan daerah; pengelolaan sumberdaya alam dan sumber daya ekonomi lainnya, serta perimbangan keuangan pusat dan daerah; serta memberikan pertimbangan kepada Dewan Perwakilan Rakyat atas rancangan undang-undang anggaran pendapatan dan belanja negara dan rancangan undang-undang yang berkaitan dengan pajak, pendidikan, dan agama. ***)"
+                ]
+              },
+              {
+                "id": "bab~viia pasal~22d ayat~3",
+                "section": "ayat",
+                "name": "3",
+                "list": "(3)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Dewan Perwakilan Daerah dapat melakukan pengawasan atas pelaksanaan undang-undang mengenai: otonomi daerah, pembentukan, pemekaran dan penggabungan daerah, hubungan pusat dan daerah, pengelolaan sumber daya alam dan sumber daya ekonomi lainnya, pelaksanaan anggaran pendapatan dan belanja negara, pajak, pendidikan, dan agama serta menyampaikan hasil pengawasannya itu kepada Dewan Perwakilan Rakyat sebagai bahan pertimbangan untuk ditindaklanjuti. ***)"
+                ]
+              },
+              {
+                "id": "bab~viia pasal~22d ayat~4",
+                "section": "ayat",
+                "name": "4",
+                "list": "(4)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Anggota Dewan Perwakilan Daerah dapat diberhentikan dari jabatannya, yang syarat-syarat dan tata caranya diatur dalam undang-undang. ***)"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bab~viib",
+        "section": "bab",
+        "name": "BAB VIIB \nPEMILIHAN UMUM",
+        "list": null,
+        "depth": 0,
+        "class_name": "v_s_text_center v_s_text_bold new_line",
+        "content": [
+          {
+            "id": "bab~viib pasal~22e",
+            "section": "pasal",
+            "name": "Pasal 22E",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~viib pasal~22e ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Pemilihan umum dilaksanakan secara langsung, umum, bebas, rahasia, jujur, dan adil setiap lima tahun sekali. ***)"
+                ]
+              },
+              {
+                "id": "bab~viib pasal~22e ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Pemilihan umum diselenggarakan untuk memilih anggota Dewan Perwakilan Rakyat, dewan Perwakilan Daerah, Presiden dan Wakil Presiden dan Dewan Perwakilan Rakyat Daerah. ***)"
+                ]
+              },
+              {
+                "id": "bab~viib pasal~22e ayat~3",
+                "section": "ayat",
+                "name": "3",
+                "list": "(3)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Peserta pemilihan umum untuk memilih anggota Dewan Perwakilan Rakyat dan anggota Dewan Perwakilan Rakyat Daerah adalah partai politik. ***)"
+                ]
+              },
+              {
+                "id": "bab~viib pasal~22e ayat~4",
+                "section": "ayat",
+                "name": "4",
+                "list": "(4)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Peserta pemilihan umum untuk memilih anggota Dewan Perwakilan Daerah adalah perseorangan. ***)"
+                ]
+              },
+              {
+                "id": "bab~viib pasal~22e ayat~5",
+                "section": "ayat",
+                "name": "5",
+                "list": "(5)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Pemilihan umum diselenggarakan oleh suatu komisi pemilihan umum yang bersifat nasional, tetap, dan mandiri. ***)"
+                ]
+              },
+              {
+                "id": "bab~viib pasal~22e ayat~6",
+                "section": "ayat",
+                "name": "6",
+                "list": "(6)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Ketentuan lebih lanjut tentang pemilihan umum diatur dengan undang-undang. ***)"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bab~viii",
+        "section": "bab",
+        "name": "BAB VIII \nHAL KEUANGAN",
+        "list": null,
+        "depth": 0,
+        "class_name": "v_s_text_center v_s_text_bold new_line",
+        "content": [
+          {
+            "id": "bab~viii pasal~23",
+            "section": "pasal",
+            "name": "Pasal 23",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~viii pasal~23 ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Anggaran pendapatan dan belanja negara sebagai wujud dari pengelolaan keuangan negara ditetapkan setiap tahun dengan undang-undang dan dilaksanakan secara terbuka dan bertanggung jawab untuk sebesar-besarnya kemakmuran rakyat. ***)"
+                ]
+              },
+              {
+                "id": "bab~viii pasal~23 ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Rancangan undang-undang anggaran pendapatan dan belanja negara diajukan oleh Presiden untuk dibahas bersama Dewan Perwakilan Rakyat dengan memperhatikan pertimbangan Dewan Perwakilan Daerah.***)"
+                ]
+              },
+              {
+                "id": "bab~viii pasal~23 ayat~3",
+                "section": "ayat",
+                "name": "3",
+                "list": "(3)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Apabila Dewan Perwakilan Rakyat tidak menyetujui rancangan anggaran pendapatan dan belanja negara yang diusulkan oleh Presiden, Pemerintah menjalankan Anggaran Pendapatan dan Belanja Negara tahun yang lalu. ***)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~viii pasal~23a",
+            "section": "pasal",
+            "name": "Pasal 23A",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              "Pajak dan pungutan lain yang bersifat memaksa untuk keperluan negara diatur dengan undang-undang. ***)"
+            ]
+          },
+          {
+            "id": "bab~viii pasal~23b",
+            "section": "pasal",
+            "name": "Pasal 23B",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              "Macam dan harga mata uang ditetapkan dengan undang-undang. ****)"
+            ]
+          },
+          {
+            "id": "bab~viii pasal~23c",
+            "section": "pasal",
+            "name": "Pasal 23C",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              "Hal-hal lain mengenai keuangan negara diatur dengan undang-undang. ***)"
+            ]
+          },
+          {
+            "id": "bab~viii pasal~23d",
+            "section": "pasal",
+            "name": "Pasal 23D",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              "Negara memiliki suatu bank sentral yang susunan, kedudukan, kewenangan, tanggungjawab, dan independensinya diatur dengan undang-undang. ****)"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bab~viiia",
+        "section": "bab",
+        "name": "BAB VIIIA \nBADAN PEMERIKSA KEUANGAN",
+        "list": null,
+        "depth": 0,
+        "class_name": "v_s_text_center v_s_text_bold new_line",
+        "content": [
+          {
+            "id": "bab~viiia pasal~23e",
+            "section": "pasal",
+            "name": "Pasal 23E",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~viiia pasal~23e ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Untuk memeriksa pengelolaan dan tanggungjawab tentang keuangan negara diadakan satu Badan Pemeriksa Keuangan yang bebas dan mandiri. ***)"
+                ]
+              },
+              {
+                "id": "bab~viiia pasal~23e ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Hasil pemeriksaan keuangan negara diserahkan kepada Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, dan Dewan Perwakilan Rakyat Daerah, sesuai dengan kewenangannya. ***)"
+                ]
+              },
+              {
+                "id": "bab~viiia pasal~23e ayat~3",
+                "section": "ayat",
+                "name": "3",
+                "list": "(3)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Hasil pemeriksaan tersebut ditindaklanjuti oleh lembaga perwakilan dan/atau badan sesuai dengan undang-undang. ***)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~viiia pasal~23f",
+            "section": "pasal",
+            "name": "Pasal 23F",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~viiia pasal~23f ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Anggota Badan Pemeriksa Keuangan dipilih oleh Dewan Perwakilan Rakyat dengan memperhatikan pertimbangan Dewan Perwakilan Daerah dan diresmikan oleh Presiden. ***)"
+                ]
+              },
+              {
+                "id": "bab~viiia pasal~23f ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Pimpinan Badan Pemeriksa Keuangan dipilih dari dan oleh anggota. ***)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~viiia pasal~23g",
+            "section": "pasal",
+            "name": "Pasal 23G",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~viiia pasal~23g ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Badan Pemeriksa Keuangan berkedudukan di ibu kota negara, dan memiliki perwakilan di setiap provinsi. ***)"
+                ]
+              },
+              {
+                "id": "bab~viiia pasal~23g ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Ketentuan lebih lanjut mengenai Badan Pemeriksa Keuangan diatur dengan undang-undang.***)"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bab~ix",
+        "section": "bab",
+        "name": "BAB IX \nKEKUASAAN KEHAKIMAN",
+        "list": null,
+        "depth": 0,
+        "class_name": "v_s_text_center v_s_text_bold new_line",
+        "content": [
+          {
+            "id": "bab~ix pasal~24",
+            "section": "pasal",
+            "name": "Pasal 24",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~ix pasal~24 ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Kekuasaan kehakiman merupakan kekuasaan yang merdeka untuk menyelenggarakan peradilan guna menegakkan hukum dan keadilan. ***)"
+                ]
+              },
+              {
+                "id": "bab~ix pasal~24 ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Kekuasaan kehakiman dilakukan oleh sebuah Mahkamah Agung dan badan peradilan yang berada di bawahnya dalam lingkungan peradilan umum, lingkungan peradilan agama, lingkungan peradilan militer, lingkungan peradilan tata usaha negara, dan oleh sebuah Mahkamah Konstitusi. ***)"
+                ]
+              },
+              {
+                "id": "bab~ix pasal~24 ayat~3",
+                "section": "ayat",
+                "name": "3",
+                "list": "(3)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Badan-badan lain yang fungsinya berkaitan dengan kekuasaan kehakiman diatur dalam undang-undang. ****)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~ix pasal~24a",
+            "section": "pasal",
+            "name": "Pasal 24A",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~ix pasal~24a ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Mahkamah Agung berwenang mengadili pada tingkat kasasi, menguji peraturan perundang-undangan di bawah undang-undang terhadap undang-undang, mempunyai wewenang lainnya diberikan oleh undang-undang. ***)"
+                ]
+              },
+              {
+                "id": "bab~ix pasal~24a ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Hakim agung harus memiliki integritas dan kepribadian yang tidak tercela, adil, profesional, dan berpengalaman di bidang hukum. ***)"
+                ]
+              },
+              {
+                "id": "bab~ix pasal~24a ayat~3",
+                "section": "ayat",
+                "name": "3",
+                "list": "(3)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Calon hakim agung diusulkan Komisi Yudisial kepada Dewan Perwakilan Rakyat untuk mendapatkan persetujuan dan selanjutnya ditetapkan sebagai hakim agung oleh Presiden. ***)"
+                ]
+              },
+              {
+                "id": "bab~ix pasal~24a ayat~4",
+                "section": "ayat",
+                "name": "4",
+                "list": "(4)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Ketua dan wakil ketua Mahkamah Agung dipilih dari dan oleh hakim agung. ***)"
+                ]
+              },
+              {
+                "id": "bab~ix pasal~24a ayat~5",
+                "section": "ayat",
+                "name": "5",
+                "list": "(5)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Susunan, kedudukan, keanggotaan, dan hukum acara Mahkamah Agung serta badan peradilan di bawahnya diatur dengan undang-undang. ***)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~ix pasal~24b",
+            "section": "pasal",
+            "name": "Pasal 24B",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~ix pasal~24b ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Komisi Yudisial bersifat mandiri yang berwenang mengusulkan pengangkatan hakim agung dan mempunyai wewenang lain dalam rangka menjaga dan menegakkan kehormatan, keluhuran martabat, serta perilaku hakim. ***)"
+                ]
+              },
+              {
+                "id": "bab~ix pasal~24b ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Anggota Komisi Yudisial harus mempunyai pengetahuan dan pengalaman di bidang hukum serta memiliki integritas dan kepribadian yang tidak tercela.***)"
+                ]
+              },
+              {
+                "id": "bab~ix pasal~24b ayat~3",
+                "section": "ayat",
+                "name": "3",
+                "list": "(3)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Anggota Komisi Yudisial diangkat dan diberhentikan oleh Presiden dengan persetujuan Dewan Perwakilan Rakyat. ***)"
+                ]
+              },
+              {
+                "id": "bab~ix pasal~24b ayat~4",
+                "section": "ayat",
+                "name": "4",
+                "list": "(4)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Susunan, kedudukan, dan keanggotaan Komisi Yudisial diatur dengan undang-undang.***)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~ix pasal~24c",
+            "section": "pasal",
+            "name": "Pasal 24C",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~ix pasal~24c ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan terakhir yang putusannya bersifat final untuk menguji undang-undang terhadap Undang-Undang Dasar, memutus sengketa kewenangan lembaga negara yang kewenangannya diberikan oleh Undang-Undang Dasar, memutus pembubaran partai politik, dan memutus perselisihan tentang hasil pemilihan umum. ***)"
+                ]
+              },
+              {
+                "id": "bab~ix pasal~24c ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Mahkamah Konstitusi wajib memberikan putusan atas pendapat Dewan Perwakilan Rakyat mengenai dugaan pelanggaran oleh Presiden dan/atau Wakil Presiden menurut Undang-Undang Dasar. ***)"
+                ]
+              },
+              {
+                "id": "bab~ix pasal~24c ayat~3",
+                "section": "ayat",
+                "name": "3",
+                "list": "(3)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Mahkamah Konstitusi mempunyai sembilan orang anggota hakim konstitusi yang ditetapkan oleh Presiden, yang diajukan masing-masing tiga orang oleh Mahkamah Agung, tiga orang oleh Dewan Perwakilan Rakyat, dan tiga orang oleh Presiden. ***)"
+                ]
+              },
+              {
+                "id": "bab~ix pasal~24c ayat~4",
+                "section": "ayat",
+                "name": "4",
+                "list": "(4)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Ketua dan Wakil Ketua Mahkamah Konstitusi dipilih dari dan oleh hakim konstitusi. ***)"
+                ]
+              },
+              {
+                "id": "bab~ix pasal~24c ayat~5",
+                "section": "ayat",
+                "name": "5",
+                "list": "(5)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Hakim konstitusi harus memiliki integritas dan kepribadian yang tidak tercela, adil, negarawan yang menguasai konstitusi dan ketatanegaraan, serta tidak merangkap sebagai pejabat negara. ***)"
+                ]
+              },
+              {
+                "id": "bab~ix pasal~24c ayat~6",
+                "section": "ayat",
+                "name": "6",
+                "list": "(6)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Pengangkatan dan pemberhentian hakim konstitusi, hukum acara serta ketentuan lainnya tentang Mahkamah Konstitusi diatur dengan undang-undang. ***)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~ix pasal~25",
+            "section": "pasal",
+            "name": "Pasal 25",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              "Syarat-syarat untuk menjadi dan untuk diberhentikan sebagai hakim ditetapkan dengan undang-undang."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bab~ixa",
+        "section": "bab",
+        "name": "BAB IXA \nWILAYAH NEGARA",
+        "list": null,
+        "depth": 0,
+        "class_name": "v_s_text_center v_s_text_bold new_line",
+        "content": [
+          {
+            "id": "bab~ixa pasal~25a",
+            "section": "pasal",
+            "name": "Pasal 25A",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              "Negara Kesatuan Republik Indonesia adalah sebuah negara kepulauan yang berciri Nusantara dengan wilayah yang batas-batas dan hak-haknya ditetapkan dengan undang-undang. **)"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bab~x",
+        "section": "bab",
+        "name": "BAB X \nWARGA NEGARA DAN PENDUDUK",
+        "list": null,
+        "depth": 0,
+        "class_name": "v_s_text_center v_s_text_bold new_line",
+        "content": [
+          {
+            "id": "bab~x pasal~26",
+            "section": "pasal",
+            "name": "Pasal 26",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~x pasal~26 ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Yang menjadi warga negara ialah orang-orang bangsa Indonesia asli dan orang-orang bangsa lain yang disahkan dengan undang-undang sebagai warga negara."
+                ]
+              },
+              {
+                "id": "bab~x pasal~26 ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Penduduk ialah warga negara Indonesia dan orang asing yang bertempat tinggal di Indonesia. **)"
+                ]
+              },
+              {
+                "id": "bab~x pasal~26 ayat~3",
+                "section": "ayat",
+                "name": "3",
+                "list": "(3)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Hal-hal mengenai warga negara dan penduduk diatur dengan undang-undang. **)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~x pasal~27",
+            "section": "pasal",
+            "name": "Pasal 27",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~x pasal~27 ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Segala warga negara bersamaan kedudukannya di dalam hukum dan pemerintahan dan wajib menjunjung hukum dan pemerintahan itu dengan tidak ada kecualinya."
+                ]
+              },
+              {
+                "id": "bab~x pasal~27 ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Tiap-tiap warga negara berhak atas pekerjaan dan penghidupan yang layak bagi kemanusiaan."
+                ]
+              },
+              {
+                "id": "bab~x pasal~27 ayat~3",
+                "section": "ayat",
+                "name": "3",
+                "list": "(3)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Setiap warga negara berhak dan wajib ikutserta dalam upaya pembelaan negara. **)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~x pasal~28",
+            "section": "pasal",
+            "name": "Pasal 28",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              "Kemerdekaan berserikat dan berkumpul, mengeluarkan pikiran dengan lisan dan tulisan dan sebagainya ditetapkan dengan undang-undang."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bab~xa",
+        "section": "bab",
+        "name": "BAB XA \nHAK ASASI MANUSIA",
+        "list": null,
+        "depth": 0,
+        "class_name": "v_s_text_center v_s_text_bold new_line",
+        "content": [
+          {
+            "id": "bab~xa pasal~28a",
+            "section": "pasal",
+            "name": "Pasal 28A",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              "Setiap orang berhak untuk hidup serta berhak mempertahankan hidup dan kehidupannya. **)"
+            ]
+          },
+          {
+            "id": "bab~xa pasal~28b",
+            "section": "pasal",
+            "name": "Pasal 28B",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~xa pasal~28b ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Setiap orang berhak membentuk keluarga dan melanjutkan keturunan melalui perkawinan yang sah. **)"
+                ]
+              },
+              {
+                "id": "bab~xa pasal~28b ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Setiap anak berhak atas kelangsungan hidup, tumbuh, dan berkembang serta berhak atas perlindungan dari kekerasan dan diskriminasi. **)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~xa pasal~28c",
+            "section": "pasal",
+            "name": "Pasal 28C",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~xa pasal~28c ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Setiap orang berhak mengembangkan diri melalui pemenuhan kebutuhan dasarnya, berhak mendapat pendidikan dan memperoleh manfaat dari ilmu pengetahuan dan teknologi, seni dan budaya, demi meningkatkan kualitas hidupnya dan demi kesejahteraan umat manusia. **)"
+                ]
+              },
+              {
+                "id": "bab~xa pasal~28c ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Setiap orang berhak untuk memajukan dirinya dalam memperjuangkan haknya secara kolektif untuk membangun masyarakat, bangsa, dan negaranya. **)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~xa pasal~28d",
+            "section": "pasal",
+            "name": "Pasal 28D",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~xa pasal~28d ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Setiap orang berhak atas pengakuan, jaminan, perlindungan, dan kepastian hukum yang adil serta perlakuan yang sama di hadapan hukum. **)"
+                ]
+              },
+              {
+                "id": "bab~xa pasal~28d ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Setiap orang berhak untuk bekerja serta mendapat imbalan dan perlakuan yang adil dan layak dalam hubungan kerja. **)"
+                ]
+              },
+              {
+                "id": "bab~xa pasal~28d ayat~3",
+                "section": "ayat",
+                "name": "3",
+                "list": "(3)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Setiap warga negara berhak memperoleh kesempatan yang sama dalam pemerintahan.**)"
+                ]
+              },
+              {
+                "id": "bab~xa pasal~28d ayat~4",
+                "section": "ayat",
+                "name": "4",
+                "list": "(4)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Setiap orang berhak atas status kewarganegaraan.**)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~xa pasal~28e",
+            "section": "pasal",
+            "name": "Pasal 28E",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~xa pasal~28e ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Setiap orang bebas memeluk agama dan beribadat menurut agamanya, memilih pendidikan dan pengajaran, memilih pekerjaan, memilih kewarganegaraan, memilih tempat tinggal di wilayah negara dan meninggalkannya, serta berhak kembali. **)"
+                ]
+              },
+              {
+                "id": "bab~xa pasal~28e ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Setiap orang berhak atas kebebasan meyakini kepercayaan, menyatakan pikiran dan sikap, sesuai dengan hati nuraninya. **)"
+                ]
+              },
+              {
+                "id": "bab~xa pasal~28e ayat~3",
+                "section": "ayat",
+                "name": "3",
+                "list": "(3)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Setiap orang berhak atas kebebasan berserikat, berkumpul, dan mengeluarkan pendapat.**)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~xa pasal~28f",
+            "section": "pasal",
+            "name": "Pasal 28F",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              "Setiap orang berhak untuk berkomunikasi dan memperoleh informasi untuk mengembangkan pribadi dan lingkungan sosialnya, serta berhak untuk mencari, memperoleh, memiliki, menyimpan, mengolah, dan menyampaikan informasi dengan menggunakan segala jenis saluran yang tersedia. **)"
+            ]
+          },
+          {
+            "id": "bab~xa pasal~28g",
+            "section": "pasal",
+            "name": "Pasal 28G",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~xa pasal~28g ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Setiap orang berhak atas perlindungan diri pribadi, keluarga, kehormatan, martabat, dan harta benda yang di bawah kekuasaannya,serta berhak atas rasa aman dan perlindungan dari ancaman ketakutan untuk berbuat atau tidak berbuat sesuatu yang merupakan hak asasi. **)"
+                ]
+              },
+              {
+                "id": "bab~xa pasal~28g ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Setiap orang berhak untuk bebas dari penyiksaan atau perlakuan yang merendahkan derajat martabat manusia dan berhak memperoleh suaka politik dari negara lain. **)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~xa pasal~28h",
+            "section": "pasal",
+            "name": "Pasal 28H",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~xa pasal~28h ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Setiap orang berhak hidup sejahtera lahir dan batin, bertempat tinggal, dan mendapatkan lingkungan hidup yang baik dan sehat serta berhak memperoleh pelayanan kesehatan. **)"
+                ]
+              },
+              {
+                "id": "bab~xa pasal~28h ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Setiap orang berhak mendapat kemudahan dan perlakuan khusus untuk memperoleh kesempatan dan manfaat yang sama guna mencapai persamaan dan keadilan. **)"
+                ]
+              },
+              {
+                "id": "bab~xa pasal~28h ayat~3",
+                "section": "ayat",
+                "name": "3",
+                "list": "(3)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Setiap orang berhak atas jaminan sosial yang memungkinkan pengembangan dirinya secara utuh sebagai manusia yang bermartabat. **)"
+                ]
+              },
+              {
+                "id": "bab~xa pasal~28h ayat~4",
+                "section": "ayat",
+                "name": "4",
+                "list": "(4)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Setiap orang berhak mempunyai hak milik pribadi dan hak milik tersebut tidak boleh diambil alih secara sewenang-wenang oleh siapa pun. **)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~xa pasal~28i",
+            "section": "pasal",
+            "name": "Pasal 28I",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~xa pasal~28i ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Hak untuk hidup, hak untuk tidak disiksa, hak kemerdekaan pikiran dan hati nurani, hak beragama, hak untuk tidak diperbudak, hak untuk diakui sebagai pribadi di hadapan hukum, dan hak untuk tidak dituntut atas dasar hukum yang berlaku surut adalah hak asasi manusia yang tidak dapat dikurangi dalam keadaan apa pun. **)"
+                ]
+              },
+              {
+                "id": "bab~xa pasal~28i ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Setiap orang berhak bebas dari perlakuan yang bersifat diskriminatif atas dasar apapun dan berhak mendapatkan perlindungan terhadap perlakuan yang bersifat diskriminatif itu. **)"
+                ]
+              },
+              {
+                "id": "bab~xa pasal~28i ayat~3",
+                "section": "ayat",
+                "name": "3",
+                "list": "(3)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Identitas budaya dan hak masyarakat tradisional dihormati selaras dengan perkembangan zaman dan peradaban. **)"
+                ]
+              },
+              {
+                "id": "bab~xa pasal~28i ayat~4",
+                "section": "ayat",
+                "name": "4",
+                "list": "(4)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Perlindungan, pemajuan, penegakan, dan pemenuhan hak asasi manusia adalah tanggungjawab negara, terutama pemerintah. **)"
+                ]
+              },
+              {
+                "id": "bab~xa pasal~28i ayat~5",
+                "section": "ayat",
+                "name": "5",
+                "list": "(5)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Untuk menegakkan dan melindungi hak asasi manusia sesuai dengan prinsip negara hukum yang demokratis, maka pelaksanaan hak asasi manusia dijamin, diatur, dan dituangkan dalam peraturan perundang-undangan.**)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~xa pasal~28j",
+            "section": "pasal",
+            "name": "Pasal 28J",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~xa pasal~28j ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Setiap orang wajib menghormati hak asasi manusia orang lain dalam tertib kehidupan bermasyarakat, berbangsa, dan bernegara. **)"
+                ]
+              },
+              {
+                "id": "bab~xa pasal~28j ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Dalam menjalankan hak dan kebebasannya, setiap orang wajib tunduk kepada pembatasan yang ditetapkan dengan undang-undang dengan maksud semata-mata untuk menjamin pengakuan serta penghormatan atas hak dan kebebasan orang lain dan untuk memenuhi tuntutan yang adil sesuai dengan pertimbangan moral, nilai-nilai agama, keamanan, dan ketertiban umum dalam suatu masyarakat demokratis. **)"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bab~xi",
+        "section": "bab",
+        "name": "BAB XI \nAGAMA",
+        "list": null,
+        "depth": 0,
+        "class_name": "v_s_text_center v_s_text_bold new_line",
+        "content": [
+          {
+            "id": "bab~xi pasal~29",
+            "section": "pasal",
+            "name": "Pasal 29",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~xi pasal~29 ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Negara berdasar atas Ketuhanan Yang Maha Esa."
+                ]
+              },
+              {
+                "id": "bab~xi pasal~29 ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Negara menjamin kemerdekaan tiap-tiap penduduk untuk memeluk agamanya masing-masing dan untuk beribadat menurut agamanya dan kepercayaannya itu"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bab~xii",
+        "section": "bab",
+        "name": "BAB XII",
+        "list": null,
+        "depth": 0,
+        "class_name": "v_s_text_center v_s_text_bold new_line",
+        "content": [
+          "PERTAHANAN DAN KEAMANAN NEGARA**)",
+          {
+            "id": "bab~xii pasal~30",
+            "section": "pasal",
+            "name": "Pasal 30",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~xii pasal~30 ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Tiap-tiap warga negara berhak dan wajib ikutserta dalam usaha pertahanan dan keamanan negara. **)"
+                ]
+              },
+              {
+                "id": "bab~xii pasal~30 ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Usaha pertahanan dan keamanan negara dilaksanakan melalui sistem pertahanan dan keamanan rakyat semesta oleh Tentara Nasional Indonesia dan Kepolisian Negara Republik Indonesia, sebagai kekuatan utama, dan rakyat, sebagai kekuatan pendukung. **)"
+                ]
+              },
+              {
+                "id": "bab~xii pasal~30 ayat~3",
+                "section": "ayat",
+                "name": "3",
+                "list": "(3)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Tentara Nasional Indonesia terdiri atas Angkatan Darat, Angkatan Laut, dan Angkatan Udara sebagai alat negara bertugas mempertahankan, melindungi, dan memelihara keutuhan dan kedaulatan negara. **)"
+                ]
+              },
+              {
+                "id": "bab~xii pasal~30 ayat~4",
+                "section": "ayat",
+                "name": "4",
+                "list": "(4)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Kepolisian Negara Republik Indonesia sebagai alat negara yang menjaga keamanan dan ketertiban masyarakat bertugas melindungi, mengayomi, melayani masyarakat, serta menegakkan hukum. **)"
+                ]
+              },
+              {
+                "id": "bab~xii pasal~30 ayat~5",
+                "section": "ayat",
+                "name": "5",
+                "list": "(5)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Susunan dan kedudukan Tentara Nasional Indonesia, Kepolisian Negara Republik Indonesia, hubungan kewenangan Tentara Nasional Indonesia dan Kepolisian Negara Republik Indonesia di dalam menjalankan tugasnya, syarat-syarat keikutsertaan warga negara dalam usaha pertahanan dan keamanan negara, serta hal-hal yang terkait dengan pertahanan dan keamanan diatur dengan undang-undang. **)"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bab~xiii",
+        "section": "bab",
+        "name": "BAB XIII \nPENDIDIKAN DAN KEBUDAYAAN",
+        "list": null,
+        "depth": 0,
+        "class_name": "v_s_text_center v_s_text_bold new_line",
+        "content": [
+          {
+            "id": "bab~xiii pasal~31",
+            "section": "pasal",
+            "name": "Pasal 31",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~xiii pasal~31 ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Setiap warga negara berhak mendapat pendidikan. ****)"
+                ]
+              },
+              {
+                "id": "bab~xiii pasal~31 ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Setiap warga negara wajib mengikuti pendidikan dasar dan pemerintah wajib membiayainya. ****)"
+                ]
+              },
+              {
+                "id": "bab~xiii pasal~31 ayat~3",
+                "section": "ayat",
+                "name": "3",
+                "list": "(3)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Pemerintah mengusahakan dan menyelenggarakan satu sistem pendidikan nasional, yang meningkatkan keimanan dan ketakwaan serta akhlak mulia dalam rangka mencerdaskan kehidupan bangsa, yang diatur dengan undang-undang. ****)"
+                ]
+              },
+              {
+                "id": "bab~xiii pasal~31 ayat~4",
+                "section": "ayat",
+                "name": "4",
+                "list": "(4)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Negara memprioritaskan anggaran pendidikan sekurang-kurangnya dua puluh persen dari anggaran pendapatan dan belanja negara serta dari anggaran pendapatan dan belanja daerah untuk memenuhi kebutuhan penyelenggaraan pendidikan nasional. ****)"
+                ]
+              },
+              {
+                "id": "bab~xiii pasal~31 ayat~5",
+                "section": "ayat",
+                "name": "5",
+                "list": "(5)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Pemerintah memajukan ilmu pengetahuan dan teknologi dengan menjunjung tinggi nilai-nilai agama dan persatuan bangsa untuk kemajuan peradaban serta kesejahteraan umat manusia. ****)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~xiii pasal~32",
+            "section": "pasal",
+            "name": "Pasal 32",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~xiii pasal~32 ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Negara memajukan kebudayaan nasional Indonesia di tengah peradaban dunia dengan menjamin kebebasan masyarakat dalam memelihara dan mengembangkan nilai-nilai budayanya. ****)"
+                ]
+              },
+              {
+                "id": "bab~xiii pasal~32 ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Negara menghormati dan memelihara bahasa daerah sebagai kekayaan budaya nasional. ****)"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bab~xiv",
+        "section": "bab",
+        "name": "BAB XIV \nPEREKONOMIAN NASIONAL DAN KESEJAHTERAAN SOSIAL",
+        "list": null,
+        "depth": 0,
+        "class_name": "v_s_text_center v_s_text_bold new_line",
+        "content": [
+          {
+            "id": "bab~xiv pasal~33",
+            "section": "pasal",
+            "name": "Pasal 33",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~xiv pasal~33 ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Perekonomian disusun sebagai usaha bersama berdasar atas asas kekeluargaan."
+                ]
+              },
+              {
+                "id": "bab~xiv pasal~33 ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Cabang-cabang produksi yang penting bagi negara dan yang menguasai hajat hidup orang banyak dikuasai oleh negara."
+                ]
+              },
+              {
+                "id": "bab~xiv pasal~33 ayat~3",
+                "section": "ayat",
+                "name": "3",
+                "list": "(3)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Bumi dan air dan kekayaan alam yang terkandung di dalamnya dikuasai oleh negara dan dipergunakan untuk sebesar-besar kemakmuran rakyat."
+                ]
+              },
+              {
+                "id": "bab~xiv pasal~33 ayat~4",
+                "section": "ayat",
+                "name": "4",
+                "list": "(4)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Perekonomian nasional diselenggarakan berdasar atas demokrasi ekonomi dengan prinsip kebersamaan, efisiensi berkeadilan, berkelanjutan, berwawasan lingkungan, kemandirian, serta dengan menjaga keseimbangan kemajuan dan kesatuan ekonomi nasional. ****)"
+                ]
+              },
+              {
+                "id": "bab~xiv pasal~33 ayat~5",
+                "section": "ayat",
+                "name": "5",
+                "list": "(5)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Ketentuan lebih lanjut mengenai pelaksanaan pasal ini diatur dalam undang-undang.****)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bab~xiv pasal~34",
+            "section": "pasal",
+            "name": "Pasal 34",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~xiv pasal~34 ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Fakir miskin dan anak-anak yang terlantar dipelihara oleh negara. ****)"
+                ]
+              },
+              {
+                "id": "bab~xiv pasal~34 ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Negara mengembangkan sistem jaminan sosial bagi seluruh rakyat dan memberdayakan masyarakat yang lemah dan tidak mampu sesuai dengan martabat kemanusiaan. ****)"
+                ]
+              },
+              {
+                "id": "bab~xiv pasal~34 ayat~3",
+                "section": "ayat",
+                "name": "3",
+                "list": "(3)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Negara bertanggung jawab atas penyediaan fasilitas pelayanan kesehatan dan fasilitas pelayanan umum yang layak. ****)"
+                ]
+              },
+              {
+                "id": "bab~xiv pasal~34 ayat~4",
+                "section": "ayat",
+                "name": "4",
+                "list": "(4)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Ketentuan lebih lanjut mengenai pelaksanaan pasal ini diatur dalam undang-undang.****)"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bab~xv",
+        "section": "bab",
+        "name": "BAB XV \nBENDERA BAHASA DAN LAMBANG NEGARA SERTA LAGU KEBANGSAAN",
+        "list": null,
+        "depth": 0,
+        "class_name": "v_s_text_center v_s_text_bold new_line",
+        "content": [
+          {
+            "id": "bab~xv pasal~35",
+            "section": "pasal",
+            "name": "Pasal 35",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              "Bendera Negara Indonesia ialah Sang Merah Putih."
+            ]
+          },
+          {
+            "id": "bab~xv pasal~36",
+            "section": "pasal",
+            "name": "Pasal 36",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              "Bahasa Negara ialah Bahasa Indonesia."
+            ]
+          },
+          {
+            "id": "bab~xv pasal~36a",
+            "section": "pasal",
+            "name": "Pasal 36A",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              "Lambang Negara ialah Garuda Pancasila dengan semboyan Bhinneka Tunggal Ika. **)"
+            ]
+          },
+          {
+            "id": "bab~xv pasal~36b",
+            "section": "pasal",
+            "name": "Pasal 36B",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              "Lagu Kebangsaan ialah Indonesia Raya. **)"
+            ]
+          },
+          {
+            "id": "bab~xv pasal~36c",
+            "section": "pasal",
+            "name": "Pasal 36C",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              "Ketentuan lebih lanjut mengenai Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan diatur dengan undang-undang. **)"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bab~xvi",
+        "section": "bab",
+        "name": "BAB XVI \nPERUBAHAN UNDANGUNDANG DASAR",
+        "list": null,
+        "depth": 0,
+        "class_name": "v_s_text_center v_s_text_bold new_line",
+        "content": [
+          {
+            "id": "bab~xvi pasal~37",
+            "section": "pasal",
+            "name": "Pasal 37",
+            "list": null,
+            "depth": 0,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              {
+                "id": "bab~xvi pasal~37 ayat~1",
+                "section": "ayat",
+                "name": "1",
+                "list": "(1)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Usul perubahan pasal-pasal Undang-Undang Dasar dapat diagendakan dalam sidang Majelis Permusyawaratan Rakyat apabila diajukan oleh sekurang-kurangnya 1/3 dari jumlah anggota Majelis Permusyawaratan Rakyat. ****)"
+                ]
+              },
+              {
+                "id": "bab~xvi pasal~37 ayat~2",
+                "section": "ayat",
+                "name": "2",
+                "list": "(2)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Setiap usul perubahan pasal-pasal Undang-Undang Dasar diajukan secara tertulis dan ditunjukkan dengan jelas bagian yang diusulkan untuk diubah beserta alasannya.****)"
+                ]
+              },
+              {
+                "id": "bab~xvi pasal~37 ayat~3",
+                "section": "ayat",
+                "name": "3",
+                "list": "(3)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Untuk mengubah pasal-pasal Undang-Undang Dasar, Sidang Majelis Permusyawaratan Rakyat dihadiri oleh sekurang-kurangnya2/3 dari jumlah anggota Majelis Permusyawaratan Rakyat. ****)"
+                ]
+              },
+              {
+                "id": "bab~xvi pasal~37 ayat~4",
+                "section": "ayat",
+                "name": "4",
+                "list": "(4)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Putusan untuk mengubah pasal-pasal Undang-Undang Dasar dilakukan dengan persetujuan sekurang-kurangnya lima puluh persen ditambah satu anggota dari seluruh anggota Majelis Permusyawaratan Rakyat. ****)"
+                ]
+              },
+              {
+                "id": "bab~xvi pasal~37 ayat~5",
+                "section": "ayat",
+                "name": "5",
+                "list": "(5)",
+                "depth": 1,
+                "class_name": "ayat indent1",
+                "content": [
+                  "Khusus mengenai bentuk Negara Kesatuan Republik Indonesia tidak dapat dilakukan perubahan. ****)startaturan"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "aturan~peralihan",
+        "section": "aturan",
+        "name": "ATURAN PERALIHAN",
+        "list": null,
+        "depth": 0,
+        "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+        "content": [
+          {
+            "id": "aturan~peralihan pasal-romawi~pasal~i",
+            "section": "pasal-romawi",
+            "name": "Pasal I",
+            "list": null,
+            "depth": 1,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              "Segala peraturan perundang-undangan yang ada masih tetap berlaku selama belum diadakan yang baru menurut Undang-Undang Dasar ini. ****)"
+            ]
+          },
+          {
+            "id": "aturan~peralihan pasal-romawi~pasal~ii",
+            "section": "pasal-romawi",
+            "name": "Pasal II",
+            "list": null,
+            "depth": 1,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              "Semua lembaga negara yang ada masih tetap berfungsi sepanjang untuk melaksanakan ketentuan Undang-Undang Dasar dan belum diadakan yang baru menurut Undang-Undang Dasar ini. ****)"
+            ]
+          },
+          {
+            "id": "aturan~peralihan pasal-romawi~pasal~iii",
+            "section": "pasal-romawi",
+            "name": "Pasal III",
+            "list": null,
+            "depth": 1,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              "Mahkamah Konstitusi dibentuk selambat-lambatnya pada 17 Agustus 2003 dan sebelum dibentuk segala kewenangannya dilakukan oleh Mahkamah Agung. ****)"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "aturan~tambahan",
+        "section": "aturan",
+        "name": "ATURAN TAMBAHAN",
+        "list": null,
+        "depth": 0,
+        "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+        "content": [
+          {
+            "id": "aturan~tambahan pasal-romawi~pasal~i",
+            "section": "pasal-romawi",
+            "name": "Pasal I",
+            "list": null,
+            "depth": 1,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              "Majelis Permusyawaratan Rakyat ditugasi untuk melakukan peninjauan terhadap materi dan status hukum Ketetapan Majelis Permusyawaratan Rakyat Sementara dan Ketetapan Majelis Permusyawaratan Rakyat untuk diambil putusan pada Sidang Majelis Permusyawaratan Rakyat tahun 2003. ****)"
+            ]
+          },
+          {
+            "id": "aturan~tambahan pasal-romawi~pasal~ii",
+            "section": "pasal-romawi",
+            "name": "Pasal II",
+            "list": null,
+            "depth": 1,
+            "class_name": "v_s_text_center v_s_text_bold v_c_text_left new_line",
+            "content": [
+              "Dengan ditetapkannya perubahan Undang-Undang Dasar ini, Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 terdiri atas Pembukaan dan pasal-pasal ****)"
+            ]
+          }
+        ]
+      }
+    ],
+    "priority": "normal",
+    "own_by": "public",
+    "favourite": false,
+    "compilations": [],
+    "codifications": []
+  }
